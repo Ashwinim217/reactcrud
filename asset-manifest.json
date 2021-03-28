@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactcrud/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/reactcrud/static/js/main.ab915449.chunk.js",
+    "main.js.map": "/reactcrud/static/js/main.ab915449.chunk.js.map",
+    "runtime-main.js": "/reactcrud/static/js/runtime-main.22aec54d.js",
+    "runtime-main.js.map": "/reactcrud/static/js/runtime-main.22aec54d.js.map",
+    "static/js/2.393f711a.chunk.js": "/reactcrud/static/js/2.393f711a.chunk.js",
+    "static/js/2.393f711a.chunk.js.map": "/reactcrud/static/js/2.393f711a.chunk.js.map",
+    "static/js/3.509a8d76.chunk.js": "/reactcrud/static/js/3.509a8d76.chunk.js",
+    "static/js/3.509a8d76.chunk.js.map": "/reactcrud/static/js/3.509a8d76.chunk.js.map",
+    "index.html": "/reactcrud/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/reactcrud/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.393f711a.chunk.js.LICENSE.txt": "/reactcrud/static/js/2.393f711a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactcrud/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22aec54d.js",
+    "static/js/2.393f711a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ab915449.chunk.js"
+  ]
+}
